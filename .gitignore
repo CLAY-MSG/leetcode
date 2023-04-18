@@ -1,4 +1,3 @@
-./out
-./leetcode.iml
-./.idea
+/leetcode.iml
+/.idea
 /out
